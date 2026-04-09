@@ -1,4 +1,9 @@
 .env
 
+# Local workspace artifacts
+.DS_Store
+.specstory/
+.claude/
+
 docker-compose.override.yml
 backups/
